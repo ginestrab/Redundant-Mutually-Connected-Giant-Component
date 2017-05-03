@@ -1,23 +1,22 @@
 # Redundant-Mutually-Connected-Giant-Component
 
-%
- % This code can be redistributed and/or modified
- % under the terms of the GNU General Public License as published by
- % the Free Software Foundation, either version 3 of the License, or (at
- % your option) any later version.
- %  
- % This program is distributed ny the authors in the hope that it will be 
- % useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
- % MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
- %
- %  
- % If you use this code please cite the following paper:
- %
- %[1] F. Radicchi and G. Bianconi, "Redundant interdependencies boost the robustness of multiplex networks" Phys. Rev. X 7, 011013 (2017)
- %
- %
- % (c) G. Bianconi (email: ginestra.bianconi@gmail.com ) 
- %
+ This code can be redistributed and/or modified
+  under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or (at
+  your option) any later version.
+   
+  This program is distributed ny the authors in the hope that it will be 
+  useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ 
+   
+  If you use this code please cite the following paper:
+ 
+ [1] F. Radicchi and G. Bianconi, "Redundant interdependencies boost the robustness of multiplex networks" Phys. Rev. X 7, 011013 (2017)
+ 
+ 
+  (c) G. Bianconi (email: ginestra.bianconi@gmail.com ) 
+ 
  ****************************************************************************************************************************************
  This program reads data (edgelist) for  a multiplex network with M=3 layers 
  in the format :
