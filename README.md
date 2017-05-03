@@ -12,7 +12,9 @@
    
   If you use this code please cite the following paper:
  
- [1] F. Radicchi and G. Bianconi, "Redundant interdependencies boost the robustness of multiplex networks" Phys. Rev. X 7, 011013 (2017)
+ [1] F. Radicchi and G. Bianconi, 
+ "Redundant interdependencies boost the robustness of multiplex networks" 
+ Phys. Rev. X 7, 011013 (2017)
  
  
   (c) G. Bianconi (email: ginestra.bianconi@gmail.com ) 
